@@ -441,3 +441,5 @@ F:\PROJEE\OtelBilgiSistemi Orijinal\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.
 C:\Users\Zeki KARA\Desktop\Veri Yapıları\OtelBilgiSistemi Orijinal\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
 C:\Users\Zeki KARA\Desktop\Veri Yapıları\OtelBilgiSistemi Orijinal\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
 C:\Users\Zeki KARA\Desktop\Veri Yapıları\OtelBilgiSistemi Orijinal\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Mehmet Zeki KARA\source\repos\KaraZeki\OtelOtomasyonu\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Mehmet Zeki KARA\source\repos\KaraZeki\OtelOtomasyonu\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
